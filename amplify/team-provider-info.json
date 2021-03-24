@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bigboxsmallpackage-dev-95020-authRole",
+      "UnauthRoleArn": "arn:aws:iam::601250527712:role/amplify-bigboxsmallpackage-dev-95020-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::601250527712:role/amplify-bigboxsmallpackage-dev-95020-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bigboxsmallpackage-dev-95020-deployment",
+      "UnauthRoleName": "amplify-bigboxsmallpackage-dev-95020-unauthRole",
+      "StackName": "amplify-bigboxsmallpackage-dev-95020",
+      "StackId": "arn:aws:cloudformation:us-east-1:601250527712:stack/amplify-bigboxsmallpackage-dev-95020/4145ac70-8cb0-11eb-be5b-0e9321cc26bf",
+      "AmplifyAppId": "d1yepu5b532mke"
+    },
+    "categories": {
+      "auth": {
+        "bigboxsmallpackage15d9063b": {}
+      }
+    }
+  }
+}

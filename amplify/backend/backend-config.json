@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "bigboxsmallpackage15d9063b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
